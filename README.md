@@ -24,3 +24,9 @@ If CitiBike were to choose to expand to Des Moines, there are three groups we sh
 2. The pie charts show the types of ways people in Des Moines commute to work. Its clear that biking is far and away the least popular choice. By giving individuals in the area a choice to bike, we can eat into the percentages of walkers, single drivers and those taking public transport.
 3. New York City statistics showed us that people from the age of 20-40 were th most frequent riders. We would be remiss if we did not try and market towards the same demographic as they are a large portion of Des Moines population as well.
 ![](https://github.com/JasmeerSangha/bikesharing/blob/master/images/Screenshot%20(92).png)
+
+## Resources
+Weather Data: https://www.usclimatedata.com/climate/new-york/new-york/united-states/usny0996
+Des Moines Statistics: https://datausa.io/profile/geo/des-moines-ia/
+Household Data: https://data.census.gov/cedsci/table?q=S2504&tid=ACSST1Y2018.S2504
+US Census Demographics: https://data.census.gov/cedsci/table?q=S0101&tid=ACSST1Y2018.S0101
