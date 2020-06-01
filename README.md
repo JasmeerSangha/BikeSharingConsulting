@@ -26,7 +26,7 @@ If CitiBike were to choose to expand to Des Moines, there are three groups we sh
 ![](https://github.com/JasmeerSangha/bikesharing/blob/master/images/Screenshot%20(92).png)
 
 ## Resources
-Weather Data: https://www.usclimatedata.com/climate/new-york/new-york/united-states/usny0996
-Des Moines Statistics: https://datausa.io/profile/geo/des-moines-ia/
-Household Data: https://data.census.gov/cedsci/table?q=S2504&tid=ACSST1Y2018.S2504
-US Census Demographics: https://data.census.gov/cedsci/table?q=S0101&tid=ACSST1Y2018.S0101
+- Weather Data: https://www.usclimatedata.com/climate/new-york/new-york/united-states/usny0996
+- Des Moines Statistics: https://datausa.io/profile/geo/des-moines-ia/
+- Household Data: https://data.census.gov/cedsci/table?q=S2504&tid=ACSST1Y2018.S2504
+- US Census Demographics: https://data.census.gov/cedsci/table?q=S0101&tid=ACSST1Y2018.S0101
